@@ -1,4 +1,5 @@
 📘 Spring Boot REST API Project
+
 - This project is a Spring Boot Backend Application that provides REST APIs for performing CRUD operations (Create, Read, Update, Delete).
 
 🛠️ Technologies Used
@@ -9,6 +10,7 @@
 - Maven
   
 📂 Project Structure
+
 src/main/java/STS/SpringBoot/
 |
 ├── controller        # REST API Controller
