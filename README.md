@@ -4,19 +4,19 @@
 🛠️ Technologies Used
 - Java
 - Spring Boot
-- Spring Data JPA
+- Spring Data JPA 
 - MySQL
 - Maven
   
 📂 Project Structure
-src/main/java/STS/SpringBoot/
-|
-├── controller        # REST API Controller
-├── services          # Service Interfaces
-├── services.impl     # Service Implementation
-├── repository        # JPA Repositories[DAO]
-├── model             # Entity Class
-├── exception         # Exception Handling
+-src/main/java/STS/SpringBoot/
+-|
+-├── controller        # REST API Controller
+-├── services          # Service Interfaces
+-├── services.impl     # Service Implementation
+-├── repository        # JPA Repositories[DAO]
+-├── model             # Entity Class
+-├── exception         # Exception Handling
 
 🔁 Run the project
 -Run the main class: SpringBootBackendApplication.java
