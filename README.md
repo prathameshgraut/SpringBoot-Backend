@@ -11,14 +11,14 @@
 📂 Project Structure
 src/main/java/STS/SpringBoot/
 |
-├── - controller        # REST API Controller
-├── - services          # Service Interfaces
-├── - services.impl     # Service Implementation
-├── - repository        # JPA Repositories[DAO]
-├── - model             # Entity Class
-├── - exception         # Exception Handling
+├── controller        # REST API Controller
+├── services          # Service Interfaces
+├── services.impl     # Service Implementation
+├── repository        # JPA Repositories[DAO]
+├── model             # Entity Class
+├── exception         # Exception Handling
 
-🔁Run the project
+🔁 Run the project
 -Run the main class: SpringBootBackendApplication.java
 
 🔥 REST API Endpoints
