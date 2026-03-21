@@ -9,7 +9,7 @@
 - Maven
   
 📂 Project Structure
-#.src/main/java/STS/SpringBoot/
+- src/main/java/STS/SpringBoot/
 |
 ├── controller        # REST API Controller
 ├── services          # Service Interfaces
